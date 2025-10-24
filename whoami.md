@@ -23,4 +23,4 @@ MAC Address: 02:42:AC:12:00:02 (Unknown)
 
 Vemos que hay un Apache el puerto 80 asi que nos metemos a la página web
 
-![](assets/2025-10-24-16-21-06-image.png)
+![](assets/1cb63fb5d2eedd3e93b3946bb3a59b06d156795a.png)
