@@ -19,11 +19,8 @@ PORT   STATE SERVICE VERSION
 |_http-server-header: Apache/2.4.58 (Ubuntu)
 |_http-generator: WordPress 6.5.4
 MAC Address: 02:42:AC:12:00:02 (Unknown)
-
 ```
 
 Vemos que hay un Apache el puerto 80 asi que nos metemos a la página web
-
-
 
 ![](assets/2025-10-24-16-21-06-image.png)
