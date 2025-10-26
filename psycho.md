@@ -88,7 +88,7 @@ No nos deja modificar el script pero si nos deja eliminarlo asi que lo eliminamo
 import os; os.system("/bin/sh")
 ```
 
-Finalement, ejecutamos el script con sudo y conseguimos ser root
+Finalemente, ejecutamos el script con sudo y conseguimos ser root
 
 ![](assets/2025-10-25-17-48-29-image.png)
 
