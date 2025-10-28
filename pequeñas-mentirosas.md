@@ -60,7 +60,7 @@ Nuevamente me encuentras las credenciales de spencer asi que me conecto por ssh 
 
 ![](assets/2025-10-28-20-17-02-image.png)
 
-Veo que puedo ejecutar python3 como root asi que voy a [GTFOBins](https://gtfobins.github.io/) y simplemente ejecuto y acabamos siendo root
+Veo que puedo ejecutar python3 como root asi que voy a [GTFOBins](https://gtfobins.github.io/) y simplemente ejecuto el siguiente comando y acabamos siendo root
 
 ```shell
 sudo python3 -c 'import os; os.system("/bin/sh")'
