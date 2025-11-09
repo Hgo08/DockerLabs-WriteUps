@@ -38,8 +38,6 @@ Asi que es probable que se pueda hacer SSTI, compruebo con {{7 * 7}} y me da 49 
 
 ![](assets/2025-11-05-21-57-49-image.png)
 
-
-
 ![](assets/2025-11-05-21-57-59-image.png)
 
 A partir de aquí, sabiendo que es un servidor flask en python, buscando un poco me encontré como hacer RCE, poniendo esto consigues ejecutar id
